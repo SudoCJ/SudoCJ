@@ -75,13 +75,14 @@ I am Clement JR Mwanamai, undergraduate student at NCC National College of ICT s
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SudoCJ&theme=tokyonight&ring=477a00&fire=477a00&currStreakNum=477a00&sideNums=477a00&sideTitle=477a00&dates=477a00&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SudoCJ&theme=tokyonight&ring=477a00&fire=477a00&currStreakNum=477a00&sideNums=477a00&sideTitle=477a00&dates=477a00&hide_border=true&background=00000000" alt="GitHub Activity Graph" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudoCJ&bg_color=00000000&color=477a00&line=477a00&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%"
+ src="https://github-readme-activity-graph.vercel.app/graph?username=SudoCJ&bg_color=00000000&color=477a00&line=477a00&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
